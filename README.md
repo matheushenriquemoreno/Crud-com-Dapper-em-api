@@ -1,4 +1,4 @@
-<h2>Projeto criado durante um curso, mas aperfeiçoado em alguns pontos por mim. O intuito do projeto foi fazer um CRUD básico levando em conta todos os tipos de relacionamento do banco de dados. Alem de utilizar todos os metodos HTPP e desenvolver mais meu conhecimento em desenvolvimento de APIS.</h2>
+<h2>Projeto criado durante um curso, mas aperfeiçoado em alguns pontos por mim. O intuito do projeto foi fazer um CRUD básico levando em conta todos os tipos de relacionamento do banco de dados. Alem de utilizar todos os metodos HTPP e aperfeiçoar meu conhecimento em desenvolvimento de APIS.</h2>
 
 
 
