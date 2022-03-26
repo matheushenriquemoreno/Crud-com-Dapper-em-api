@@ -1,0 +1,80 @@
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\appsettings.json
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.exe
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.deps.json
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.runtimeconfig.json
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\ref\APIeCommerceCursoDapper.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.pdb
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\staticwebassets\APIeCommerceCursoDapper.StaticWebAssets.Manifest.cache
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\staticwebassets\APIeCommerceCursoDapper.StaticWebAssets.xml
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\scopedcss\bundle\APIeCommerceCursoDapper.styles.css
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.RazorTargetAssemblyInfo.cache
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.csproj.CopyComplete
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\ref\APIeCommerceCursoDapper.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.pdb
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.genruntimeconfig.cache
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Dapper.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Dapper.Contrib.dll
+C:\Users\mathe\Desktop\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Dapper.FluentMap.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.csproj.AssemblyReference.cache
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.AssemblyInfoInputs.cache
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.AssemblyInfo.cs
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.csproj.CoreCompileInputs.cache
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.MvcApplicationPartsAssemblyInfo.cs
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.MvcApplicationPartsAssemblyInfo.cache
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\ref\APIeCommerceCursoDapper.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.pdb
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\appsettings.Development.json
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\appsettings.json
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.StaticWebAssets.xml
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.exe
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.deps.json
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.runtimeconfig.json
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.runtimeconfig.dev.json
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\ref\APIeCommerceCursoDapper.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\APIeCommerceCursoDapper.pdb
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Dapper.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Dapper.Contrib.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Dapper.FluentMap.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\System.Data.SqlClient.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\scopedcss\bundle\APIeCommerceCursoDapper.styles.css
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\staticwebassets\APIeCommerceCursoDapper.StaticWebAssets.Manifest.cache
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.RazorTargetAssemblyInfo.cache
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.csproj.CopyComplete
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\obj\Debug\net5.0\APIeCommerceCursoDapper.genruntimeconfig.cache
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\System.Web.Http.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Projetos Aleatorios\Projeto API Com DAPPER\Codigo\APIeCommerceCursoDapper\APIeCommerceCursoDapper\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
